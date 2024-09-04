@@ -1,0 +1,88 @@
+.confirmation-container {
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  .cost{
+    background-color: #dc355f;
+    color: white;
+    width: 11.5%;
+    text-align: center;
+    align-items: center;
+  }
+  .costtwo{
+    background-color: #dc355f;
+    color: white;
+    width: 14%;
+    text-align: center;
+    align-items: center;
+  }
+  .facility-button {
+    margin: 5px;
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .ok-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .ok-button a{
+    text-decoration: none;
+    color: white;
+  }
+.cancel-button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+.cancel-button a{
+    text-decoration: none;
+    color: white;
+}
+
+.remove-button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 5px;
+  }
+ .ontherSeat-button{
+  margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 5px;
+ }
+ .ontherSeat-button a{
+  text-decoration: none;
+  color: white;
+}
+  
+ 
+  

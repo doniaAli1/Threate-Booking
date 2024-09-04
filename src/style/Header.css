@@ -1,0 +1,41 @@
+.mainHeader{
+    background-color:black;
+    color: white;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+}
+.mainHeader .logo{
+    width: 20%;
+}
+.mainHeader .logo img{
+    width: 50%;
+    height: 70px;
+    object-fit: contain;
+    float: right;
+}
+.mainHeader nav{
+    width: 80%;
+}
+.mainHeader nav ul{
+    list-style: none;
+}
+.mainHeader nav ul li{
+    display: inline-block;
+    padding: 35px ;
+}
+.mainHeader nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+.mainHeader nav ul li a:hover{
+    color:rgb(255, 111, 0); 
+    cursor: pointer;
+}
+.logout{
+    margin-left: 550px;
+}

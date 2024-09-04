@@ -1,0 +1,30 @@
+.add-movie{
+    background-color: rgb(226, 43, 76);
+    text-align: center;
+    margin-left: 40%;
+    justify-content: center;
+    padding: 10px 20px;
+    border: 1px;
+    border-radius: 5px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.add-movie a{
+    color: white;
+    text-decoration: none;
+}
+.update-food{
+    background-color: rgb(226, 43, 76);
+    text-align: center;
+    margin-left: 5%;
+    justify-content: center;
+    padding: 10px 20px;
+    border: 1px;
+    border-radius: 5px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.update-food a{
+    color: white;
+    text-decoration: none;
+}

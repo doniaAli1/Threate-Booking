@@ -1,0 +1,12 @@
+.ProductList{
+    margin: 45px;
+     display: flex;  
+     justify-content: center; 
+    align-items: center;
+      flex-direction: row; 
+      flex-wrap: wrap;
+}
+.ProductList .productCard{
+    width: 25%;
+    margin: 5px;
+}

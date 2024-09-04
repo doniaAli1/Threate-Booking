@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 130vh;
+    text-align: center;
+  }
+  
+  .product-image {
+    max-width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .product-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .product-about{
+    background-color:rgba(255, 0, 153, 0.239);
+    margin-top: 20px;
+  }
+  
+  .product-description { 
+    font-size: 16px;
+    margin: 20px;
+    background-color:rgba(255, 0, 153, 0.239);
+    
+  }
+  
+  .product-price {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .book-now-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .book-now-button:hover {
+    background-color: #0056b3;
+  }
+  

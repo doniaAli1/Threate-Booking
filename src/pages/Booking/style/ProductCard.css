@@ -1,0 +1,55 @@
+.product-card{
+    width: 20%; 
+    margin: 3px;
+    border: 1.2px solid lightgray;
+    border-radius: 2%;
+}
+.product-card .card-info{
+    padding: 15px;
+    text-align: center;
+}
+.product-card .card-top{
+    width: 100%;
+    height: 250px;
+}
+.product-card .price{
+    color: rgb(226, 43, 76);
+}
+.product-card .card-top img{
+    width: 100%;
+    height: 100%;
+    border-top-right-radius:15px ;
+    border-top-left-radius: 15px;
+}
+.product-card .card-info .title{
+    font-weight: bolder;
+    color: rgb(226, 43, 76);
+    text-align: center;
+}
+.product-card .card-info .info{
+    color: gray;
+    font-size: 13px;
+    margin: 10px;
+}
+.product-card .card-info button{
+    background-color: rgb(226, 43, 76);
+    text-align: center;
+    justify-content: center;
+    padding: 5px 10px;
+    border: 1px;
+    border-radius: 3.5px;
+    margin-top: 20px;
+}
+.product-card .card-info button a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.deleteButton{
+    margin-right: 7px;
+    cursor: pointer;
+    color:white;
+}
+.UpdateButton{
+    cursor: pointer;
+    color:white;
+}
